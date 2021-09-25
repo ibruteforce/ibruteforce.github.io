@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: Stealing Cookies through Request Smuggling leading to Account Takeover
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
