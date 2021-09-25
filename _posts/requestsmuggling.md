@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Stealing Cookies through Request Smuggling leading to Account Takeover
-subtitle: Each post also has a subtitle
+subtitle: How you could mass exploit users through Request Smuggling!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+
+Ever heard of Request Smuggling? It was recently popularized by James Kettle - Director of PortSwigger. A very dangerous critical vulnerability - if exploited can lead to mass arbitrary account takeovers, PII information leakage and what not
+
+In this article, I'd like to demostrate how I was recently able to exploit and reveal victim's cookies through Request DeSync Attack/Request Smuggling. 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
