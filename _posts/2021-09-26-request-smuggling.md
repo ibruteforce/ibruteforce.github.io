@@ -2,9 +2,7 @@
 layout: post
 title: Stealing Cookies through Request Smuggling leading to Account Takeover
 subtitle: How you could mass exploit users through Request Smuggling!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Request Smuggling, Account Takeover]
 comments: true
 ---
 
