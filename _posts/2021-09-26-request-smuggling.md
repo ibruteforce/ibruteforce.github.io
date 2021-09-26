@@ -18,7 +18,7 @@ In this article, I'd like to demostrate how I was recently able to discover, exp
 Before testing for certain bug types, my methodology when auditing an application always revolve around using the application as an intended user. I'd like to overall assess what requests are being sent, if any interesting header is being leaked, any interesting parameters to play with and then go down that rabbithole! 
 
 
-Performing some reconnaissance and looking for open ports, I saw this application had http port 5000 open with Gunicorn 20.0.0.
+Performing some reconnaissance and looking for open ports, I noticed, that this application had http port 5000 open with Gunicorn 20.0.0.
 
 
 ![app](https://imgur.com/EGd6oXH)
