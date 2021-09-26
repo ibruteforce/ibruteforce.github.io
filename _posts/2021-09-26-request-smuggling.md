@@ -21,7 +21,7 @@ Before testing for certain bug types, my methodology when auditing an applicatio
 Performing some reconnaissance and looking for open ports, I noticed, that this application had http port 5000 open with Gunicorn 20.0.0.
 
 
-![app](https://imgur.com/EGd6oXH)
+![app](https://i.imgur.com/EGd6oXH.png)
 
 
 
