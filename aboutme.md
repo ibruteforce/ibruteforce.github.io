@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: More about who I am!
 ---
 
 Hi! I go by the name iBruteforce Online. I currently work as a Security Analyst. My primary hobby is to partipate on Capture the Flag (CTF) and CrowdSourced Bug Bounty Programs. Occasionaly, I like to blog about some of the interesting vulnerabilities that I find during my engagements. 
