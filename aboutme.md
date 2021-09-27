@@ -19,7 +19,7 @@ Some of my BugBounty Stats:
 ![imgur](https://i.imgur.com/1qmExDN.png)
 
 
-I'm also ranked #1 in my country on HackerOne with an impact greater than 30 indicating some of the most critical issues found with a perfect signal of 7.00.
+I'm ranked #1 in my country on HackerOne with an impact greater than 30 indicating some of the most critical issues found with a perfect signal of 7.00.
 
 ![imgur](https://i.imgur.com/Vn8hla6.png)
 
